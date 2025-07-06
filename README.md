@@ -41,7 +41,7 @@
 
 ## 🛠️ **Tech Stack**
 
-### **Languages & Technologies**
+### **All Of My Learnings(Languages & Technologies)**
 | Technology | Usage | Version |
 |------------|-------|---------|
 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | System Programming | C++17+ |
