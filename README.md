@@ -1,4 +1,4 @@
-# 🚀 Specialized Portfolio - Modern Developer Showcase
+# 🚀 chetanstack.dev a Specialized Portfolio - Modern Developer Showcase
 
 > A cutting-edge, responsive portfolio website built with Next.js 14, featuring stunning animations, interactive elements, and a comprehensive tech stack display.
 
