@@ -205,7 +205,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 **Contact**
 
 **Chetan Ananda Reddy Kukutla**  
-📧 Email: [your-email@domain.com](mailto:chetananandareddykukutla@gmail.com)  
+📧 Email: [chetananandareddykukutla@domain.com](mailto:chetananandareddykukutla@gmail.com)  
 🐙 GitHub: [@ChetanAnandaReddyKukutla](https://github.com/ChetanAnandaReddyKukutla)  
 💼 LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/chetananandareddykukutla/))  
 
