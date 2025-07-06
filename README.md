@@ -2,6 +2,14 @@
 
 > A cutting-edge, responsive portfolio website built with Next.js 14, featuring stunning animations, interactive elements, and a comprehensive tech stack display.
 
+## 📸 **Portfolio Preview**
+
+![Portfolio Website Screenshot](./public/image.png)
+
+*Experience the live portfolio with smooth animations, interactive elements, and modern design aesthetics*
+
+---
+
 ![Portfolio Preview](https://img.shields.io/badge/Portfolio-Live%20Demo-brightgreen?style=for-the-badge&logo=vercel)
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
