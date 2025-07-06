@@ -148,43 +148,6 @@
 </svg>
 ```
 
-## 🚀 **Getting Started**
-
-### **Prerequisites**
-- Node.js 18.0 or higher
-- npm, yarn, pnpm, or bun package manager
-- Modern web browser
-
-### **Installation**
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/ChetanAnandaReddyKukutla/specialized-portfolio.git
-cd specialized-portfolio
-```
-
-2. **Install dependencies**
-```bash
-npm install
-# or
-yarn install
-# or
-pnpm install
-```
-
-3. **Start development server**
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-4. **Open in browser**
-```
-http://localhost:3000
-```
 
 ## 📁 **Project Structure**
 
@@ -218,25 +181,6 @@ specialized-portfolio/
 - **⚡ Performance Optimized**: Fast loading and smooth interactions
 - **🎯 Accessibility**: WCAG compliant and keyboard navigable
 
-## 🚀 **Deployment**
-
-### **Vercel (Recommended)**
-```bash
-npx vercel --prod
-```
-
-### **Netlify**
-```bash
-npm run build
-# Deploy the 'out' folder to Netlify
-```
-
-### **GitHub Pages**
-```bash
-npm run build
-npm run export
-# Deploy the 'out' folder to GitHub Pages
-```
 
 ## 📈 **Performance Metrics**
 - ⚡ **Lighthouse Score**: 95+ across all categories
@@ -261,18 +205,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 **Contact**
 
 **Chetan Ananda Reddy Kukutla**  
-📧 Email: [your-email@domain.com](mailto:your-email@domain.com)  
+📧 Email: [your-email@domain.com](mailto:chetananandareddykukutla@gmail.com)  
 🐙 GitHub: [@ChetanAnandaReddyKukutla](https://github.com/ChetanAnandaReddyKukutla)  
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+💼 LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/chetananandareddykukutla/))  
 
 ---
 
-<div align="center">
-
-**🌟 Star this repository if you found it helpful! 🌟**
-
-![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Built%20with-Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/Powered%20by-TypeScript-blue?style=for-the-badge&logo=typescript)
-
-</div>
