@@ -11,8 +11,11 @@ export const metadata: Metadata = {
   title: "My Portfolio",
   description: "Created with the help of Frontend Tribe",
   icons: {
-    icon: "/star.png",
-    shortcut: "/star.png",
+    icon: [
+      { url: "/star.svg", type: "image/svg+xml" },
+      { url: "/star.png", type: "image/png" }
+    ],
+    shortcut: "/star.svg",
     apple: "/star.png",
   },
 };
@@ -25,8 +28,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <link rel="icon" href="/star.svg" type="image/svg+xml" />
         <link rel="icon" href="/star.png" type="image/png" />
-        <link rel="shortcut icon" href="/star.png" type="image/png" />
+        <link rel="shortcut icon" href="/star.svg" type="image/svg+xml" />
       </head>
       <body className={twMerge(
         inter.variable,

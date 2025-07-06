@@ -41,35 +41,74 @@
 
 ## 🛠️ **Tech Stack**
 
-### **Frontend Technologies**
+### **Languages & Technologies**
 | Technology | Usage | Version |
 |------------|-------|---------|
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | System Programming | C++17+ |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Backend & AI | 3.9+ |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Core Language | ES2023 |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | Type Safety | 5.0+ |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | Markup | Latest |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | Styling | Latest |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | UI Library | 18.0+ |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) | Alternative Framework | 3.0+ |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) | React Framework | 14.0 |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | CSS Framework | 3.4+ |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) | UI Components | 5.0+ |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) | Low-level Programming | C11 |
 
-### **Backend & Database**
+### **Frameworks & Libraries**
 | Technology | Usage | Purpose |
 |------------|-------|---------|
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) | React Framework | 14.0 |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | UI Library | 18.0+ |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) | Alternative Framework | 3.0+ |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | CSS Framework | 3.4+ |
+| ![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-000000?style=flat&logo=shadcnui&logoColor=white) | Component Library | Latest |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) | UI Components | 5.0+ |
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) | Runtime | Server Environment |
 | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) | Web Framework | API Development |
-| ![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=flat&logo=api&logoColor=white) | API Design | Data Communication |
+| ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white) | Animation Library | React Animations |
+| ![Anime.js](https://img.shields.io/badge/Anime.js-FF6B6B?style=flat&logo=javascript&logoColor=white) | Animation Engine | Web Animations |
+
+### **Databases & Backend**
+| Technology | Usage | Purpose |
+|------------|-------|---------|
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | SQL Database | Relational Data |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | NoSQL Database | Document Storage |
+| ![Convex](https://img.shields.io/badge/Convex-FF6B35?style=flat&logo=convex&logoColor=white) | Real-time Database | Modern Backend |
+| ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) | Python Framework | Web Applications |
+| ![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=flat&logo=api&logoColor=white) | API Design | Data Communication |
 
-### **Development Tools**
+### **AI & Personalization**
+| Technology | Usage | Purpose |
+|------------|-------|---------|
+| ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white) | AI Integration | GPT Models |
+| ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) | AI Framework | LLM Applications |
+| ![Vapi](https://img.shields.io/badge/Vapi-6366F1?style=flat&logo=api&logoColor=white) | Voice AI | Conversational AI |
+| ![Function Calling](https://img.shields.io/badge/Function%20Calling-FF6B35?style=flat&logo=code&logoColor=white) | AI Integration | Dynamic Responses |
+| ![Context Workflows](https://img.shields.io/badge/Context%20Workflows-8B5CF6?style=flat&logo=workflow&logoColor=white) | AI Logic | Smart Processing |
+
+### **Tools & Platforms**
 | Tool | Purpose | Integration |
 |------|---------|-------------|
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | Version Control | Code Management |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | Version Control | Code Management |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | Code Repository | Collaboration |
 | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) | API Testing | Development Testing |
+| ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white) | Cloud Platform | Deployment |
+| ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white) | Authentication | User Management |
+| ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) | Documentation | Project Planning |
+| ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white) | Project Management | Task Organization |
+| ![Lottiefiles](https://img.shields.io/badge/Lottiefiles-00D4AA?style=flat&logo=lottie&logoColor=white) | Animations | Motion Graphics |
 | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) | Design Tool | UI/UX Design |
+| ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white) | Build Tool | Task Automation |
+| ![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat&logo=oauth&logoColor=white) | Authentication | Secure Login |
 | ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white) | Debugging | Development |
+
+### **Personal Skills**
+| Skill | Description | Application |
+|-------|-------------|-------------|
+| 🧠 **Analytical Thinking** | Breaking down complex problems | System Architecture & Debugging |
+| 🔧 **Problem-Solving** | Creative solution development | Algorithm Design & Optimization |
+| 🌟 **Adaptability** | Quick learning of new technologies | Full-Stack Development |
+| 👥 **Team Collaboration** | Effective communication & teamwork | Agile Development & Code Reviews |
+| 📚 **Continuous Learning** | Staying updated with latest trends | Technology Innovation |
+| 🎯 **Attention to Detail** | Precision in code and design | Quality Assurance & User Experience |
 
 ## 🎮 **Interactive Features**
 
