@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+  <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 5-5v3h4v4h-4v3zm6-6h-4V7h4v4z"/>
+  <path d="M13 9v2h2V9h-2zm0 4v2h2v-2h-2z"/>
+  <text x="12" y="16" text-anchor="middle" font-size="3" font-weight="bold">API</text>
+</svg>
