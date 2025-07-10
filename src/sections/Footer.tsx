@@ -1,6 +1,11 @@
 import ArrowUpRightIcon from "@/assets/icons/arrow-up-right.svg";
+import { title } from "process";
 
 const footerlinks = [
+  {
+    title: "Resume",
+    href: "https://drive.google.com/file/d/130dE1n6o7B0lJdazfeKZbl3YkE5C8sGF/view?usp=sharing"
+  },
   {
     title: "Twitter",
     href: "https://x.com/ChetanAnandaR",
