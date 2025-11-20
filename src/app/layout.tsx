@@ -37,6 +37,7 @@ export default function RootLayout({
         "bg-gray-900 text-white antialiased font-sans"
         )}
         >
+        <script src="https://assets.adobedtm.com/21b53c73144b/0df380bfd2b0/launch-1237b0e7c4a4-development.min.js" async></script>
           {children}
         </body>
     </html>
