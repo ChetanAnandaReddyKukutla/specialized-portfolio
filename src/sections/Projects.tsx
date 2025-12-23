@@ -109,6 +109,7 @@ export const ProjectsSection = () => {
               <div className="relative">
                 
               <Image src={project.image} alt={project.title}
+              loading="lazy"
               className="mt-8 -mb-4 md:-mb-0 lg:absolute lg:h-full lg:w-auto lg:max-w-none md:rounded-3xl sm:rounded-md"/>
               
               </div>

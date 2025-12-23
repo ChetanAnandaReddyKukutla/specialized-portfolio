@@ -1,12 +1,6 @@
-// export const TechIcon = ({ component }: { component: React.ElementType }) => {
-//   const Component = component;
-//   return (
-//     <Component/>
-//   );
-// };
+import { memo } from "react";
 
-
-export const TechIcon = ({ component: Component }: { component: React.ElementType }) => {
+export const TechIcon = memo(({ component: Component }: { component: React.ElementType }) => {
   return (
     <>
     <Component className="size-10 fill-[url(#tech-icon-gradient)]" />
@@ -18,4 +12,6 @@ export const TechIcon = ({ component: Component }: { component: React.ElementTyp
     </svg>
     </>
     );
-  };
+});
+
+TechIcon.displayName = 'TechIcon';

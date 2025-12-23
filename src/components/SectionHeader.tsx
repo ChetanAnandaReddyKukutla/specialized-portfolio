@@ -1,5 +1,6 @@
-export const SectionHeader = (
-    {
+import { memo } from "react";
+
+export const SectionHeader = memo(({
         title,
         eyebrow,
         description,
@@ -24,4 +25,6 @@ export const SectionHeader = (
         </p>
     </>
   );
-};
+});
+
+SectionHeader.displayName = 'SectionHeader';

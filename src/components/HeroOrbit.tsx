@@ -1,7 +1,7 @@
-import { PropsWithChildren } from "react";
+import { PropsWithChildren, memo } from "react";
 import { twMerge } from "tailwind-merge";
 
-export const HeroOrbit = ({
+export const HeroOrbit = memo(({
   children,
   size,
   rotation,
@@ -23,6 +23,7 @@ export const HeroOrbit = ({
         className={twMerge(shouldOrbit === true && "animate-spin")}
         style={{
           animationDuration: orbitDuration,
+          willChange: shouldOrbit ? 'transform' : 'auto',
         }}
       >
         <div
@@ -34,7 +35,8 @@ export const HeroOrbit = ({
           }}
         >
           <div className={twMerge(shouldSpin === true && "animate-spin")} style={{
-            animationDuration: spinDuration
+            animationDuration: spinDuration,
+            willChange: shouldSpin ? 'transform' : 'auto',
           }}>
             <div
               className="inline-flex "
@@ -47,4 +49,6 @@ export const HeroOrbit = ({
       </div>
     </div>
   );
-};
+});
+
+HeroOrbit.displayName = 'HeroOrbit';

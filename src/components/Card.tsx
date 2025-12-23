@@ -1,8 +1,8 @@
 import grainImage from "@/assets/images/grain.jpg";
 import { twMerge } from "tailwind-merge";
-import { ComponentPropsWithoutRef, PropsWithChildren } from "react";
+import { ComponentPropsWithoutRef, memo } from "react";
 
-export const Card = ({ 
+export const Card = memo(({ 
   className ,
   children ,
   ...other
@@ -20,4 +20,6 @@ export const Card = ({
       {children}
     </div>
   );
-};
+});
+
+Card.displayName = 'Card';

@@ -1,5 +1,4 @@
 import ArrowUpRightIcon from "@/assets/icons/arrow-up-right.svg";
-import { title } from "process";
 
 const footerlinks = [
   {

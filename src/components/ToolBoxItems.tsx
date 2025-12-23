@@ -1,8 +1,8 @@
 import { twMerge } from "tailwind-merge";
 import { TechIcon } from "./TechIcon";
-import { Fragment } from "react";
+import { Fragment, memo, useMemo } from "react";
 
-export const ToolBoxItems = ({
+export const ToolBoxItems = memo(({
   items,
   className,
   itemsWrapperClassName,
@@ -14,6 +14,7 @@ export const ToolBoxItems = ({
   className?: string;
   itemsWrapperClassName?: string;
 }) => {
+  const duplicatedItems = useMemo(() => [...new Array(2)].fill(0), []);
   return (
     <div
       className={twMerge(
@@ -27,7 +28,7 @@ export const ToolBoxItems = ({
           itemsWrapperClassName
         )}
       >
-        {[...new Array(2)].fill(0).map((_, index) => (
+        {duplicatedItems.map((_, index) => (
           <Fragment key={index}>
             {items.map((item) => (
               <div
@@ -43,4 +44,6 @@ export const ToolBoxItems = ({
       </div>
     </div>
   );
-};
+});
+
+ToolBoxItems.displayName = 'ToolBoxItems';
