@@ -15,6 +15,35 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-3.4-38bdf8?style=for-the-badge&logo=tailwind-css)
 
+## 📝 **Getting Started**
+
+### 🔧 **Working with VS Code**
+New to updating this repository from VS Code? Check out our comprehensive guide:
+
+👉 **[VS Code Setup & Update Guide](VSCODE_GUIDE.md)** - Step-by-step instructions for:
+- Setting up Git in VS Code
+- Cloning and managing the repository
+- Making and pushing changes
+- Working with branches
+- Troubleshooting common issues
+
+### ⚡ **Quick Setup**
+```bash
+# Clone the repository
+git clone https://github.com/ChetanAnandaReddyKukutla/specialized-portfolio.git
+
+# Navigate to the project directory
+cd specialized-portfolio
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+Visit `http://localhost:3000` to see your portfolio in action! 🚀
+
 ## ✨ **Key Features**
 
 ### 🎭 **Hero Section with Dynamic Animations**
@@ -200,11 +229,17 @@ specialized-portfolio/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+### **New to using VS Code with Git?**
+📖 Check out our **[VS Code Guide](VSCODE_GUIDE.md)** for detailed instructions on how to update this repository from VS Code.
+
+### **Standard Git Workflow:**
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+💡 **Tip**: Always test your changes locally with `npm run dev` before pushing!
 
 ## 📄 **License**
 
