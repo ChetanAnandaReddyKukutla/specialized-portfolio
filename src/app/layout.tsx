@@ -27,6 +27,15 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              if (typeof window !== "undefined") {
+                window.adobeDataLayer = window.adobeDataLayer || [];
+              }
+            `,
+          }}
+        />
         <link rel="icon" href="/star.svg" type="image/svg+xml" />
         <link rel="icon" href="/star.png" type="image/png" />
         <link rel="shortcut icon" href="/star.svg" type="image/svg+xml" />
