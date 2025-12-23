@@ -41,7 +41,7 @@ export default function RootLayout({
         <link rel="icon" href="/star.png" type="image/png" />
         <link rel="shortcut icon" href="/star.svg" type="image/svg+xml" />
         <Script
-          src="https://assets.adobedtm.com/21b53c73144b/0df380bfd2b0/launch-1237b0e7c4a4-development.min.js"
+          src="https://assets.adobedtm.com/21b53c73144b/eb1c1a333a4a/launch-614a61dcb959-development.min.js"
           strategy="afterInteractive"
         />
       </head>
