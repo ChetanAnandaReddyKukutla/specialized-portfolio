@@ -17,7 +17,7 @@ Before you begin, make sure you have:
 #### Configure Git in VS Code
 
 1. **Open VS Code Terminal**
-   - Press `` Ctrl + ` `` (backtick) or go to `Terminal → New Terminal`
+   - Press `Ctrl + backtick` or go to `Terminal → New Terminal`
 
 2. **Set your Git identity** (if not already done):
    ```bash
@@ -321,7 +321,7 @@ git diff
 | Action | Windows/Linux | Mac |
 |--------|---------------|-----|
 | Open Source Control | `Ctrl+Shift+G` | `Cmd+Shift+G` |
-| Open Terminal | ``Ctrl+` `` | ``Cmd+` `` |
+| Open Terminal | `Ctrl+backtick` | `Cmd+backtick` |
 | Command Palette | `Ctrl+Shift+P` | `Cmd+Shift+P` |
 | Quick File Open | `Ctrl+P` | `Cmd+P` |
 | Save All Files | `Ctrl+K S` | `Cmd+K S` |
