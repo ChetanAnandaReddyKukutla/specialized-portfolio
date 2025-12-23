@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter , Calistoga } from 'next/font/google';
+import Script from "next/script";
 import "./globals.css";
 import { twMerge } from "tailwind-merge";
 
@@ -39,7 +40,10 @@ export default function RootLayout({
         <link rel="icon" href="/star.svg" type="image/svg+xml" />
         <link rel="icon" href="/star.png" type="image/png" />
         <link rel="shortcut icon" href="/star.svg" type="image/svg+xml" />
-        <script src="https://assets.adobedtm.com/21b53c73144b/0df380bfd2b0/launch-1237b0e7c4a4-development.min.js" async></script>
+        <Script
+          src="https://assets.adobedtm.com/21b53c73144b/0df380bfd2b0/launch-1237b0e7c4a4-development.min.js"
+          strategy="afterInteractive"
+        />
       </head>
       <body className={twMerge(
         inter.variable,
